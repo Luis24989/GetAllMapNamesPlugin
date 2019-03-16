@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GetAllMapNamesPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\GetAllMapNames\Intermediate\Build\Win64\GetAllMapNamesEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\Unreal Projects\GetAllMapNames\Plugins\GetAllMapNamesPlugin\Intermediate\Build\Win64\UE4Editor\Development\GetAllMapNamesPlugin\Module.GetAllMapNamesPlugin.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\GetAllMapNames\Plugins\GetAllMapNamesPlugin\Intermediate\Build\Win64\UE4Editor\Development\GetAllMapNamesPlugin\Module.GetAllMapNamesPlugin.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\GetAllMapNames\Plugins\GetAllMapNamesPlugin\Intermediate\Build\Win64\UE4Editor\Development\GetAllMapNamesPlugin\PCLaunch.rc.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\GetAllMapNames\Plugins\GetAllMapNamesPlugin\Intermediate\Build\Win64\UE4Editor\Development\GetAllMapNamesPlugin\UE4Editor-GetAllMapNamesPlugin.lib"
